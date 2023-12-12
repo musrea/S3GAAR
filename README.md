@@ -1,2 +1,2 @@
 # S3GAAR
-Official cod of "Segmented Spatiotemporal Skeleton Graph-Attention for Action Recognition"
+The official cod of "Segmented Spatiotemporal Skeleton Graph-Attention for Action Recognition" will be available soon
